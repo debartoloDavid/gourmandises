@@ -6,3 +6,6 @@ core: 8.x
 
 libraries:
   - gourmandises/global-styling
+
+regions:
+  content: 'Content'
