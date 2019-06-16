@@ -1,10 +1,14 @@
 body{
     background-color: #e5e5e5;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
 }
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: blueviolet;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Lobster', cursive;
 }
