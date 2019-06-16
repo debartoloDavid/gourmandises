@@ -1,0 +1,12 @@
+name: Gourmandises
+type: theme
+description: Site complet sur la cuisine
+package: cddb
+core: 8.x
+
+libraries:
+  - gourmandises/global-styling
+
+regions:
+  header: 'Header'
+  content: 'Contenu'
